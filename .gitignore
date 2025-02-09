@@ -10,6 +10,8 @@
 
 # production
 /build
+/dist.zip
+.gitpod.yml
 
 # misc
 .env

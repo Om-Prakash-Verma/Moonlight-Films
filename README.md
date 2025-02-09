@@ -1,10 +1,10 @@
-# Moonlight Films
+# WatchHQ Films
 
 Hot TV Show / Movie Watching Website
 
 ## Live demo
 
-Official website: [https://mymoonlight.vercel.app/](https://mymoonlight.vercel.app/)
+Official website: [https://myWatchHQ.vercel.app/](https://myWatchHQ.vercel.app/)
 
 ## Movie sources
 
@@ -51,7 +51,7 @@ The Movie Database API
 
 ![Screenshot 9](https://i.ibb.co/5BhLp4x/auth.png)
 
-![Screenshot 10](https://i.ibb.co/fGgp0P0/moonlight.png)
+![Screenshot 10](https://i.ibb.co/fGgp0P0/WatchHQ.png)
 
 ![Screenshot 11](https://i.ibb.co/z6JSPYj/404.png)
 
