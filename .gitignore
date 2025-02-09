@@ -12,6 +12,7 @@
 /build
 /dist.zip
 .gitpod.yml
+/build.zip
 
 # misc
 .env

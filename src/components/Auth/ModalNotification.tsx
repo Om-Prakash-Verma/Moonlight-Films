@@ -60,7 +60,7 @@ const ModalNotification: FunctionComponent<ModalNotificationProps> = ({
           {message}
           <br></br>
           {type === "error" && <span>Keep calm and try again.</span>}
-          {type === "success" && <span>Let's "WatchHQ and chill".</span>}
+          {type === "success" && <span>WatchHQ ─ Watch Online HD Movies Free".</span>}
         </p>
         <button
           onClick={() => {
