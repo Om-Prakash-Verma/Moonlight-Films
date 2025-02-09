@@ -10,7 +10,7 @@ export const resizeImage = (
 
 // export const embedMovie = (id: number): string => `${EMBED_VIDSRC}/${id}`;
 
-export const embedMovie = (id: number): string => `${EMBED_TO}/movie?id=${id}`;
+export const embedMovie = (id: number): string => `${EMBED_TO}/movie/${id}`;
 
 // export const embedTV = (id: number, season: number, episode: number): string =>
 //   `${EMBED_URL}/series?tmdb=${id}&sea=${season}&epi=${episode}`;
@@ -19,7 +19,7 @@ export const embedMovie = (id: number): string => `${EMBED_TO}/movie?id=${id}`;
 //   `${EMBED_VIDSRC}/${id}/${season}-${episode}`;
 
 export const embedTV = (id: number, season: number, episode: number): string =>
-  `${EMBED_TO}/tv?id=${id}&s=${season}&e=${episode}`;
+  `${EMBED_TO}/tv/${id}/${season}/${episode}?primaryColor=63b8bc&secondaryColor=a2a2a2&iconColor=eefdec&icons=default&player=default&title=true&poster=true&autoplay=true&nextbutton=true`;
 
 export const calculateTimePassed = (time: number): string => {
   const unit = {
