@@ -24,7 +24,6 @@ import SidebarMini from "../Common/SidebarMini";
 import Skeleton from "../Common/Skeleton";
 import Title from "../Common/Title";
 import Footer from "../Footer/Footer";
-import Comment from "./Comment/Comment";
 import SeasonSelection from "./SeasonSelection";
 
 interface FilmWatchProps {
